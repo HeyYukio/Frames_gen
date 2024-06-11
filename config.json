@@ -1,0 +1,5 @@
+{
+    "video_path": "videos/cam16_masked/cam16-4_masked.mp4",
+    "output_folder": "cam16_masked",
+    "desired_fps": 2
+}
